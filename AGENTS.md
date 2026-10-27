@@ -1,6 +1,6 @@
 # Agent Instructions
 
-Guidance for Claude Code when working in this repository.
+Guidance for Claude, Claude Code, ChatGPT, and Codex when working in this repository.
 
 ## What this repo is
 
@@ -10,7 +10,7 @@ A shared ESLint flat config package (`@tkodev/config-eslint-next`) for Next.js +
 
 ```text
 .
-├── CLAUDE.md              # This file
+├── AGENTS.md              # This file
 ├── CONTRIBUTING.md        # Contributor guide
 ├── README.md              # Installation and usage
 ├── eslint.config.mjs      # Main config export

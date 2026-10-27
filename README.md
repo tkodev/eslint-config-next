@@ -58,6 +58,6 @@ pnpm lint           # Lint all files
 
 ## Documentation
 
-- **AI and working conventions:** [`CLAUDE.md`](./CLAUDE.md)
+- **AI and working conventions:** [`AGENTS.md`](./AGENTS.md)
 - **Git and contribution rules:** [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 - **License:** [`LICENSE.md`](./LICENSE.md)
